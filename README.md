@@ -1,16 +1,76 @@
-## Hi there 👋
 
-<!--
-**bitanbanerjeee/bitanbanerjeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Bitan Banerjee 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Engineer | Python | SQL | PySpark | Databricks
+
+Building scalable data solutions and exploring the world of Cloud & Analytics.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/bitanbanerjeee)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Electrical Engineering Graduate from **Jadavpur University, Kolkata**
+- 💼 Experience in **Technology Consulting at PwC India**
+- 🚀 Interested in Data Engineering, Big Data and Cloud Technologies
+- 🌱 Exploring scalable data pipelines and modern data architectures
+- 📊 Passionate about transforming data into meaningful insights
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+- Python
+- SQL
+- PySpark
+
+**Data Engineering**
+- Apache Spark
+- Databricks
+- Delta Lake
+- Azure Data Factory
+- Unity Catalog
+
+**Cloud & Tools**
+- Microsoft Azure
+- AWS
+- Git & GitHub
+- GitHub Actions
+
+**Analytics**
+- Power BI
+- Pandas
+- Data Analytics
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitanbanerjeee&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitanbanerjeee&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bitanbanerjeee&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: Add your LinkedIn URL here
+- 📧 Email: Add your professional email here
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+</div>
