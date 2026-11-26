@@ -15,11 +15,15 @@ Building scalable data solutions and exploring the world of Cloud & Analytics.
 
 ## 👨‍💻 About Me
 
+
+## 👨‍💻 About Me
+
+- 💼 Currently working at **ZS Associates – Analytics**
+- 💻 Previously worked at **PwC India – Data Engineering**
 - 🎓 Electrical Engineering Graduate from **Jadavpur University, Kolkata**
-- 💼 Experience in **Technology Consulting at PwC India**
-- 🚀 Interested in Data Engineering, Big Data and Cloud Technologies
-- 🌱 Exploring scalable data pipelines and modern data architectures
-- 📊 Passionate about transforming data into meaningful insights
+- 📊 Interested in Decision Analytics, Business Analytics and Data Science
+- 🚀 Experienced in Python, SQL, PySpark, Databricks, Power BI and Fabric.
+- 🌱 Passionate about solving business problems through data-driven insights
 
 ## 🛠️ Tech Stack
 
