@@ -73,7 +73,7 @@ Bachelor of Engineering – Electrical Engineering
 
 ## CONNECT
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/bitan-banerjee-965744202/
 - GitHub: https://github.com/bitanbanerjeee
 
 ---
