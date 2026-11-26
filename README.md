@@ -1,80 +1,85 @@
+ <div align="center">
 
-<div align="center">
+# BITAN BANERJEE
 
-# Hi, I'm Bitan Banerjee 👋
+**Analytics | Data Engineering | Business Intelligence**
 
-### Data Engineer | Python | SQL | PySpark | Databricks
+Turning Data into Insights and Insights into Impact
 
-Building scalable data solutions and exploring the world of Cloud & Analytics.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/bitanbanerjeee)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-
-## 👨‍💻 About Me
-
-- 💼 Currently working at **ZS Associates – Analytics**
-- 💻 Previously worked at **PwC India – Data Engineering**
-- 🎓 Electrical Engineering Graduate from **Jadavpur University, Kolkata**
-- 📊 Interested in Decision Analytics, Business Analytics and Data Science
-- 🚀 Experienced in Python, SQL, PySpark, Databricks, Power BI and Fabric.
-- 🌱 Passionate about solving business problems through data-driven insights
-
-## 🛠️ Tech Stack
-
-**Programming Languages**
-- Python
-- SQL
-- PySpark
-
-**Data Engineering**
-- Apache Spark
-- Databricks
-- Delta Lake
-- Azure Data Factory
-- Unity Catalog
-
-**Cloud & Tools**
-- Microsoft Azure
-- AWS
-- Git & GitHub
-- GitHub Actions
-
-**Analytics**
-- Power BI
-- Pandas
-- Data Analytics
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitanbanerjeee&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitanbanerjeee&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bitanbanerjeee&theme=tokyonight&hide_border=true)
+[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/bitanbanerjeee)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## ABOUT ME
 
-- 💼 LinkedIn: Add your LinkedIn URL here
-- 📧 Email: Add your professional email here
+Analytics and technology professional with an engineering background and experience across Data Engineering and Analytics.
+
+- Currently working at **ZS Associates – Analytics**
+- Previously worked at **PwC India – Data Engineering**
+- Bachelor of Engineering in Electrical Engineering from **Jadavpur University, Kolkata**
+- Interested in Decision Analytics, Business Intelligence, Data Science and Business Problem Solving
+- Passionate about leveraging technology and data to drive meaningful business outcomes
+
+## TECHNICAL SKILLS
+
+| Category | Technologies |
+|---|---|
+| Programming Languages | Python, SQL, PySpark |
+| Analytics & Visualization | Power BI, DAX, Microsoft Fabric |
+| Data Engineering | Apache Spark, Databricks, Delta Lake |
+| Cloud Platforms | Microsoft Azure, AWS |
+| Data Integration | Azure Data Factory, Kafka |
+| Development Tools | Git, GitHub, GitHub Actions |
+
+## PROFESSIONAL EXPERIENCE
+
+**ZS Associates**  
+*Analytics*
+
+Currently working on analytics-oriented problem solving and data-driven business solutions.
+
+**PwC India**  
+*Technology Consulting – Data Engineering*
+
+- Worked on enterprise data modernization and migration initiatives.
+- Developed and supported data pipelines using PySpark and Databricks.
+- Worked on data validation, reconciliation and ETL transformation.
+- Gained experience in cloud data platforms and large-scale data processing.
+
+**Airbus**  
+*Engineering Intern – Simulations and Physical Systems*
+
+- Internship experience in engineering simulations and physical systems.
+
+## GITHUB STATISTICS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bitanbanerjeee&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitanbanerjeee&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bitanbanerjeee&theme=default&hide_border=true)
+
+</div>
+
+## EDUCATION
+
+**Jadavpur University, Kolkata**
+
+Bachelor of Engineering – Electrical Engineering
+
+## CONNECT
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/bitanbanerjeee
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+*Always learning. Always improving.*
 
 </div>
